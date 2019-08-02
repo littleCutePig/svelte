@@ -1,0 +1,39 @@
+[
+    {
+      "menuName": "第一级--项目管理",
+      "flag": false,
+      "childTree": [
+        {
+          "menuName": "第二级--项目进度",
+          "flag": false,
+          "childTree": [
+            {
+              "menuName": "第三级--项目一",
+              "flag": false,
+              "childTree": [
+                {
+                  "menuName": "第四级--详细信息",
+                  "flag": false,
+                  "childTree": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "menuName": "第二级--任务安排",
+          "flag": false,
+          "childTree": []
+        }
+      ]
+    },
+    {
+      "menuName": "第一级--数据统计",
+      "flag": false,
+      "childTree": []
+    },
+    {
+      "menuName": "第一级--人员管理",
+      "flag": false,
+      "childTree": []
+    }]
